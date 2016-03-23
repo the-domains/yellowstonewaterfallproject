@@ -1,7 +1,7 @@
 name: YellowstoneWaterfallproject
 favicon: null
-layout_spectrum: 0.07289195456542075
-typography_spectrum: 0.2576274105813354
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8029222406912595
-  lightness: 0.6730432079639286
-  saturation: 0.035963128320872784
-  rhythmicContrast: 0.35838960809633136
+    - '#0c0c0c'
+    - '#b3cedf'
+    - '#a5a29b'
+    - '#4b5966'
+    - '#86691a'
+  brandStrength: 0.625
+  lightness: 0.5
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
